@@ -1,2 +1,2 @@
 # Click-Tycoon
-Click and get Rich
+Click and get Rich  
